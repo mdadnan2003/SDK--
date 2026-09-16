@@ -2,6 +2,7 @@
 HTML all Function and Tools..
 
 
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -263,3 +264,6 @@ HTML all Function and Tools..
     <script src="main.js"></script>
   </body>
 </html>
+```
+## This is a structure of HTML
+When i will use it it will be edited....
