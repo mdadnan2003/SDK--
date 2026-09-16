@@ -1,4 +1,3 @@
-````markdown
 # ⚛️ React Master SDK
 
 > A reusable React reference for building modern frontend applications.
@@ -3682,4 +3681,3 @@ For almost every real-world application:
 ```
 
 # END
-````
